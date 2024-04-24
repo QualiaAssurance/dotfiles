@@ -72,4 +72,3 @@ ZSH_HIGHLIGHT_STYLES[redirection]='fg=#cad3f5'
 ZSH_HIGHLIGHT_STYLES[arg0]='fg=#cad3f5'
 ZSH_HIGHLIGHT_STYLES[default]='fg=#cad3f5'
 ZSH_HIGHLIGHT_STYLES[cursor]='fg=#cad3f5'
-
