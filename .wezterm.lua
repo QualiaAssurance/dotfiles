@@ -55,6 +55,12 @@ config.use_fancy_tab_bar = false
 config.tab_bar_at_bottom = true
 config.hide_tab_bar_if_only_one_tab = true
 
+-- allow iBus input such as the emoji selector or Kanji input
+config.use_ime = true
+config.colors = {
+	compose_cursor = "#f5a97f",
+}
+
 config.leader = { key = " ", mods = "CTRL", timeout_milliseconds = 1000 }
 
 -- config overwrites default keytables instead of deep copy merge them
