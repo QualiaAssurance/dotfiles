@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NewsFlash OPML export</title>
+  </head>
+  <body>
+    <outline title="Technology" text="Technology">
+      <outline xmlUrl="https://itsfoss.com/rss/" type="rss" htmlUrl="https://itsfoss.com/" title="It&apos;s FOSS" text="It&apos;s FOSS" />
+      <outline htmlUrl="https://fedoramagazine.org/feed/" title="Fedora Magazine" text="Fedora Magazine" type="rss" xmlUrl="https://fedoramagazine.org/feed/" />
+      <outline type="rss" text="Phoronix" title="Phoronix" htmlUrl="https://www.phoronix.com/" xmlUrl="https://www.phoronix.com/rss.php" />
+    </outline>
+    <outline text="Comics" title="Comics">
+      <outline htmlUrl="https://www.exocomics.com/" title="Extra Ordinary" text="Extra Ordinary" type="rss" xmlUrl="https://www.exocomics.com/index.xml" />
+      <outline text="Last Place Comics" xmlUrl="https://lastplacecomics.com/feed/" type="rss" title="Last Place Comics" htmlUrl="https://lastplacecomics.com/feed/" />
+      <outline text="Saturday Morning Breakfast Cereal" htmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" xmlUrl="https://www.smbc-comics.com/comic/rss" title="Saturday Morning Breakfast Cereal" />
+      <outline xmlUrl="https://www.webtoons.com/en/challenge/table-top/rss?title_no=842302" text="Table Top" htmlUrl="https://www.webtoons.com/en/canvas/table-top/list?title_no=842302" type="rss" title="Table Top" />
+      <outline type="rss" htmlUrl="https://www.kohney.com/feed/" text="The Other End Comics" title="The Other End Comics" xmlUrl="https://www.kohney.com/feed/" />
+      <outline xmlUrl="https://pizzacakecomic.com/rss" type="rss" text="https://pizzacakecomic.com/" htmlUrl="https://pizzacakecomic.com/" title="https://pizzacakecomic.com/" />
+      <outline title="xkcd.com" xmlUrl="https://xkcd.com/atom.xml" type="rss" htmlUrl="https://xkcd.com/" text="xkcd.com" />
+      <outline title="Poorly Drawn Lines" text="Poorly Drawn Lines" type="rss" htmlUrl="https://poorlydrawnlines.com/feed/" xmlUrl="https://poorlydrawnlines.com/feed/" />
+      <outline title="extrafabulouscomics" type="rss" htmlUrl="https://www.extrafabulouscomics.com/" text="extrafabulouscomics" xmlUrl="https://www.extrafabulouscomics.com/blog-feed.xml" />
+    </outline>
+    <outline title="Science" text="Science">
+      <outline title="New Scientist - Home" htmlUrl="https://www.newscientist.com/" type="rss" xmlUrl="https://feeds.newscientist.com/home" text="New Scientist - Home" />
+      <outline title="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" text="Quanta Magazine" htmlUrl="https://api.quantamagazine.org/feed/" />
+    </outline>
+    <outline title="News" text="News" />
+  </body>
+</opml>
