@@ -4,67 +4,71 @@
     <title>NewsFlash OPML export</title>
   </head>
   <body>
-    <outline title="Technology" text="Technology">
-      <outline htmlUrl="https://fedoramagazine.org/" title="Fedora Magazine" xmlUrl="https://fedoramagazine.org/feed/" type="rss" text="Fedora Magazine" />
-      <outline title="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="https://www.phoronix.com/" text="Phoronix" />
-      <outline type="rss" title="It&apos;s FOSS" text="It&apos;s FOSS" xmlUrl="https://itsfoss.com/rss/" htmlUrl="https://itsfoss.com/" />
+    <outline text="Technology" title="Technology">
+      <outline title="Fedora Magazine" text="Fedora Magazine" type="rss" xmlUrl="https://fedoramagazine.org/feed/" htmlUrl="https://fedoramagazine.org/" />
+      <outline type="rss" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="https://www.phoronix.com/" text="Phoronix" title="Phoronix" />
+      <outline xmlUrl="https://itsfoss.com/rss/" type="rss" htmlUrl="https://itsfoss.com/" title="It&apos;s FOSS" text="It&apos;s FOSS" />
     </outline>
     <outline text="Comics" title="Comics">
-      <outline type="rss" xmlUrl="https://www.litterboxcomics.com/feed/" title="Litterbox" htmlUrl="https://www.litterboxcomics.com/" text="Litterbox" />
-      <outline title="XKCD" type="rss" xmlUrl="https://xkcd.com/atom.xml" text="XKCD" htmlUrl="https://xkcd.com/" />
-      <outline type="rss" xmlUrl="https://www.webtoons.com/en/challenge/the-beevs/rss?title_no=754155" title="The Beevs" htmlUrl="https://www.webtoons.com/en/canvas/the-beevs/list?title_no=754155" text="The Beevs" />
-      <outline text="Crow Time" htmlUrl="https://www.webtoons.com/en/canvas/crow-time/list?title_no=693372" xmlUrl="https://www.webtoons.com/en/challenge/crow-time/rss?title_no=693372" type="rss" title="Crow Time" />
-      <outline title="My Dad is Dracula" type="rss" text="My Dad is Dracula" htmlUrl="https://www.webtoons.com/en/canvas/my-dad-is-dracula/list?title_no=517608" xmlUrl="https://www.webtoons.com/en/challenge/my-dad-is-dracula-comics/rss?title_no=517608" />
-      <outline text="Table Top" type="rss" xmlUrl="https://www.webtoons.com/en/challenge/table-top/rss?title_no=842302" htmlUrl="https://www.webtoons.com/en/canvas/table-top/list?title_no=842302" title="Table Top" />
-      <outline text="The Oatmeal" type="rss" htmlUrl="http://theoatmeal.com/" title="The Oatmeal" xmlUrl="http://feeds.feedburner.com/oatmealfeed" />
-      <outline title="Rds. To Nowhere" htmlUrl="https://www.webtoons.com/en/canvas/rds-to-nowhere/list?title_no=793459" text="Rds. To Nowhere" xmlUrl="https://www.webtoons.com/en/challenge/rds-to-nowhere/rss?title_no=793459" type="rss" />
-      <outline text="Last Place" type="rss" htmlUrl="https://lastplacecomics.com/" xmlUrl="https://lastplacecomics.com/feed/" title="Last Place" />
-      <outline htmlUrl="https://jensorensen.com/" type="rss" text="Jen Sorensen" xmlUrl="https://jensorensen.com/feed" title="Jen Sorensen" />
-      <outline htmlUrl="https://www.webtoons.com/en/canvas/fruitbombcomics/list?title_no=892112" xmlUrl="https://www.webtoons.com/en/challenge/fruitbombcomics/rss?title_no=892112" type="rss" text="FruitBombComics" title="FruitBombComics" />
-      <outline title="Alloy" xmlUrl="https://www.webtoons.com/en/challenge/alloy-comics/rss?title_no=747447" text="Alloy" type="rss" htmlUrl="https://www.webtoons.com/en/canvas/alloy-comics/list?title_no=747447" />
-      <outline type="rss" title="Irregular Galaxy Doods" text="Irregular Galaxy Doods" xmlUrl="https://www.webtoons.com/en/challenge/irregular-galaxy-doods/rss?title_no=806843" htmlUrl="https://www.webtoons.com/en/canvas/irregular-galaxy-doods/list?title_no=806843" />
-      <outline htmlUrl="https://www.webtoons.com/en/canvas/colmscomics/list?title_no=501823" xmlUrl="https://www.webtoons.com/en/challenge/colmscomics/rss?title_no=501823" title="colmscomics" text="colmscomics" type="rss" />
-      <outline title="Pizzacake" text="Pizzacake" type="rss" xmlUrl="https://pizzacakecomic.com/rss" htmlUrl="https://pizzacakecomic.com/" />
-      <outline text="War and Peas" title="War and Peas" htmlUrl="https://warandpeas.com/" xmlUrl="https://warandpeas.com/feed/" type="rss" />
-      <outline xmlUrl="https://betweenwalks.art/rss" htmlUrl="https://betweenwalks.art/" type="rss" text="Between Walks" title="Between Walks" />
-      <outline htmlUrl="https://poorlydrawnlines.com/" xmlUrl="https://poorlydrawnlines.com/feed/" text="Poorly Drawn Lines" type="rss" title="Poorly Drawn Lines" />
-      <outline xmlUrl="https://www.kohney.com/feed/" type="rss" htmlUrl="https://www.kohney.com/" title="The Other End" text="The Other End" />
-      <outline type="rss" xmlUrl="https://www.webtoons.com/en/challenge/gone-into-rapture/rss?title_no=32082" text="Gone into Rapture" title="Gone into Rapture" htmlUrl="https://www.webtoons.com/en/canvas/gone-into-rapture/list?title_no=32082" />
-      <outline text="Saturday Morning Breakfast Cereal" type="rss" htmlUrl="https://www.smbc-comics.com/" title="Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" />
-      <outline htmlUrl="https://pbfcomics.com/" text="The Perry Bible Fellowship" title="The Perry Bible Fellowship" type="rss" xmlUrl="https://pbfcomics.com/feed/" />
-      <outline type="rss" title="Extra Ordinary" text="Extra Ordinary" xmlUrl="https://www.exocomics.com/index.xml" htmlUrl="https://www.exocomics.com/" />
-      <outline text="nellucnhoj.com" htmlUrl="https://nellucnhoj.com/" type="rss" title="nellucnhoj.com" xmlUrl="https://nellucnhoj.com/rss" />
-      <outline type="rss" xmlUrl="https://www.extrafabulouscomics.com/blog-feed.xml" title="Extra Fabulous" text="Extra Fabulous" htmlUrl="https://www.extrafabulouscomics.com/" />
-      <outline type="rss" htmlUrl="https://fmsqueeze.com/" xmlUrl="https://fmsqueeze.com/feed/" text="fmsqueeze" title="fmsqueeze" />
-      <outline htmlUrl="https://www.sheldoncomics.com/" title="Sheldon" xmlUrl="https://www.sheldoncomics.com/feed/" text="Sheldon" type="rss" />
-      <outline xmlUrl="https://www.stephencomic.com/archive?format=rss" title="Step Hen" htmlUrl="https://www.stephencomic.com/archive/" text="Step Hen" type="rss" />
-      <outline type="rss" htmlUrl="https://existentialcomics.com/" text="Existential Comics" title="Existential Comics" xmlUrl="https://existentialcomics.com/rss.xml" />
+      <outline xmlUrl="https://nellucnhoj.com/rss" htmlUrl="https://nellucnhoj.com/" title="nellucnhoj.com" type="rss" text="nellucnhoj.com" />
+      <outline text="Saturday Morning Breakfast Cereal" type="rss" title="Saturday Morning Breakfast Cereal" htmlUrl="https://www.smbc-comics.com/" xmlUrl="https://www.smbc-comics.com/comic/rss" />
+      <outline htmlUrl="https://pbfcomics.com/" xmlUrl="https://pbfcomics.com/feed/" type="rss" text="The Perry Bible Fellowship" title="The Perry Bible Fellowship" />
+      <outline htmlUrl="https://warandpeas.com/" text="War and Peas" type="rss" xmlUrl="https://warandpeas.com/feed/" title="War and Peas" />
+      <outline text="fmsqueeze" title="fmsqueeze" type="rss" htmlUrl="https://fmsqueeze.com/" xmlUrl="https://fmsqueeze.com/feed/" />
+      <outline title="Rds. To Nowhere" xmlUrl="https://www.webtoons.com/en/challenge/rds-to-nowhere/rss?title_no=793459" type="rss" htmlUrl="https://www.webtoons.com/en/canvas/rds-to-nowhere/list?title_no=793459" text="Rds. To Nowhere" />
+      <outline htmlUrl="https://pizzacakecomic.com/" text="Pizzacake" xmlUrl="https://pizzacakecomic.com/rss" title="Pizzacake" type="rss" />
+      <outline type="rss" xmlUrl="https://www.webtoons.com/en/challenge/colmscomics/rss?title_no=501823" htmlUrl="https://www.webtoons.com/en/canvas/colmscomics/list?title_no=501823" text="colmscomics" title="colmscomics" />
+      <outline text="The Other End" title="The Other End" type="rss" htmlUrl="https://www.kohney.com/" xmlUrl="https://www.kohney.com/feed/" />
+      <outline htmlUrl="https://www.webtoons.com/en/canvas/my-dad-is-dracula-comics/list?title_no=517608" title="My Dad is Dracula" text="My Dad is Dracula" type="rss" xmlUrl="https://www.webtoons.com/en/challenge/my-dad-is-dracula-comics/rss?title_no=517608" />
+      <outline type="rss" text="Table Top" xmlUrl="https://www.webtoons.com/en/challenge/table-top/rss?title_no=842302" htmlUrl="https://www.webtoons.com/en/canvas/table-top/list?title_no=842302" title="Table Top" />
+      <outline text="Last Place" type="rss" xmlUrl="https://lastplacecomics.com/feed/" htmlUrl="https://lastplacecomics.com/" title="Last Place" />
+      <outline htmlUrl="https://www.webtoons.com/en/canvas/crow-time/list?title_no=693372" type="rss" text="Crow Time" xmlUrl="https://www.webtoons.com/en/challenge/crow-time/rss?title_no=693372" title="Crow Time" />
+      <outline title="Extra Ordinary" type="rss" xmlUrl="https://www.exocomics.com/index.xml" text="Extra Ordinary" htmlUrl="https://www.exocomics.com/" />
+      <outline htmlUrl="https://betweenwalks.art/" text="Between Walks" title="Between Walks" xmlUrl="https://betweenwalks.art/rss" type="rss" />
+      <outline type="rss" title="The Beevs" text="The Beevs" xmlUrl="https://www.webtoons.com/en/challenge/the-beevs/rss?title_no=754155" htmlUrl="https://www.webtoons.com/en/canvas/the-beevs/list?title_no=754155" />
+      <outline htmlUrl="https://www.litterboxcomics.com/" xmlUrl="https://www.litterboxcomics.com/feed/" text="Litterbox" title="Litterbox" type="rss" />
+      <outline title="Step Hen" text="Step Hen" xmlUrl="https://www.stephencomic.com/archive?format=rss" htmlUrl="https://www.stephencomic.com/archive/" type="rss" />
+      <outline xmlUrl="https://www.sheldoncomics.com/feed/" type="rss" htmlUrl="https://www.sheldoncomics.com/" title="Sheldon" text="Sheldon" />
+      <outline htmlUrl="https://www.webtoons.com/en/canvas/irregular-galaxy-doods/list?title_no=806843" title="Irregular Galaxy Doods" text="Irregular Galaxy Doods" xmlUrl="https://www.webtoons.com/en/challenge/irregular-galaxy-doods/rss?title_no=806843" type="rss" />
+      <outline xmlUrl="https://poorlydrawnlines.com/feed/" title="Poorly Drawn Lines" htmlUrl="https://poorlydrawnlines.com/" type="rss" text="Poorly Drawn Lines" />
+      <outline type="rss" title="Jen Sorensen" xmlUrl="https://jensorensen.com/feed" text="Jen Sorensen" htmlUrl="https://jensorensen.com/" />
+      <outline type="rss" text="Extra Fabulous" htmlUrl="https://www.extrafabulouscomics.com/" title="Extra Fabulous" xmlUrl="https://www.extrafabulouscomics.com/blog-feed.xml" />
+      <outline type="rss" xmlUrl="https://existentialcomics.com/rss.xml" text="Existential Comics" title="Existential Comics" htmlUrl="https://existentialcomics.com/" />
+      <outline text="The Oatmeal" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/" type="rss" title="The Oatmeal" />
+      <outline type="rss" xmlUrl="https://www.webtoons.com/en/challenge/gone-into-rapture/rss?title_no=32082" htmlUrl="https://www.webtoons.com/en/canvas/gone-into-rapture/list?title_no=32082" text="Gone into Rapture" title="Gone into Rapture" />
+      <outline type="rss" htmlUrl="https://xkcd.com/" text="XKCD" title="XKCD" xmlUrl="https://xkcd.com/atom.xml" />
+      <outline xmlUrl="https://www.webtoons.com/en/challenge/alloy-comics/rss?title_no=747447" htmlUrl="https://www.webtoons.com/en/canvas/alloy-comics/list?title_no=747447" title="Alloy" type="rss" text="Alloy" />
     </outline>
-    <outline text="Science" title="Science">
-      <outline text="Quanta Magazine" type="rss" htmlUrl="https://www.quantamagazine.org/" title="Quanta Magazine" xmlUrl="https://api.quantamagazine.org/feed/" />
+    <outline title="Science" text="Science">
+      <outline htmlUrl="https://www.quantamagazine.org/" title="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" text="Quanta Magazine" />
     </outline>
-    <outline text="News" title="News">
-      <outline text="Visit Barrow" htmlUrl="https://visitbarrow.org.uk/" title="Visit Barrow" xmlUrl="https://visitbarrow.org.uk/feed/" type="rss" />
-      <outline htmlUrl="https://www.nwemail.co.uk/news/" type="rss" xmlUrl="https://www.nwemail.co.uk/news/rss/" text="North West Evening Mail" title="North West Evening Mail" />
-      <outline htmlUrl="https://www.theforumbarrow.co.uk/" title="The Forum Barrow" type="rss" text="The Forum Barrow" xmlUrl="https://www.theforumbarrow.co.uk/feed/" />
-      <outline htmlUrl="https://www.bbc.co.uk/news/england/cumbria" title="BBC News - Cumbria" xmlUrl="https://feeds.bbci.co.uk/news/england/cumbria/rss.xml" text="BBC News - Cumbria" type="rss" />
+    <outline title="News" text="News">
+      <outline text="Visit Barrow" title="Visit Barrow" type="rss" xmlUrl="https://visitbarrow.org.uk/feed/" htmlUrl="https://visitbarrow.org.uk/" />
+      <outline title="BBC News - Cumbria" text="BBC News - Cumbria" type="rss" htmlUrl="https://www.bbc.co.uk/news/england/cumbria" xmlUrl="https://feeds.bbci.co.uk/news/england/cumbria/rss.xml" />
+      <outline text="North West Evening Mail" htmlUrl="https://www.nwemail.co.uk/news/" xmlUrl="https://www.nwemail.co.uk/news/rss/" title="North West Evening Mail" type="rss" />
+      <outline text="The Forum Barrow" htmlUrl="https://www.theforumbarrow.co.uk/" type="rss" xmlUrl="https://www.theforumbarrow.co.uk/feed/" title="The Forum Barrow" />
     </outline>
     <outline text="ESA" title="ESA">
-      <outline text="ESA Space Science" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_Science" htmlUrl="https://www.esa.int/Science_Exploration/Space_Science" type="rss" title="ESA Space Science" />
-      <outline text="ESA Space Transportation" type="rss" title="ESA Space Transportation" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Launchers" htmlUrl="https://www.esa.int/Enabling_Support/Space_Transportation" />
-      <outline text="ESA Observing the Earth" type="rss" title="ESA Observing the Earth" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Observing_the_Earth" htmlUrl="https://www.esa.int/Applications/Observing_the_Earth" />
-      <outline xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_News" title="ESA Top News" htmlUrl="https://www.esa.int/" text="ESA Top News" type="rss" />
-      <outline title="ESA Education" htmlUrl="https://www.esa.int/Education" text="ESA Education" xmlUrl="http://www.esa.int/rssfeed/Education" type="rss" />
-      <outline title="ESA Space Engineering &amp; Technology" type="rss" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology" htmlUrl="https://www.esa.int/Enabling_Support/Space_Engineering_Technology" text="ESA Space Engineering &amp; Technology" />
-      <outline text="ESA Operations" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Operations" type="rss" title="ESA Operations" htmlUrl="https://www.esa.int/Enabling_Support/Operations" />
-      <outline text="ESA Connectivity and Secure Communications" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Telecommunications_Integrated_Applications" title="ESA Connectivity and Secure Communications" htmlUrl="https://www.esa.int/Applications/Connectivity_and_Secure_Communications" type="rss" />
-      <outline htmlUrl="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration" title="ESA Human and Robotic Exploration" text="ESA Human and Robotic Exploration" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Human_Spaceflight" type="rss" />
-      <outline htmlUrl="https://www.esa.int/Applications/Satellite_navigation" type="rss" text="ESA Satellite navigation" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Navigation" title="ESA Satellite navigation" />
+      <outline title="ESA Human and Robotic Exploration" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Human_Spaceflight" type="rss" htmlUrl="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration" text="ESA Human and Robotic Exploration" />
+      <outline text="ESA Space Transportation" htmlUrl="https://www.esa.int/Enabling_Support/Space_Transportation" title="ESA Space Transportation" type="rss" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Launchers" />
+      <outline htmlUrl="https://www.esa.int/Enabling_Support/Space_Engineering_Technology" title="ESA Space Engineering &amp; Technology" type="rss" text="ESA Space Engineering &amp; Technology" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology" />
+      <outline text="ESA Space Science" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_Science" htmlUrl="https://www.esa.int/Science_Exploration/Space_Science" title="ESA Space Science" type="rss" />
+      <outline htmlUrl="https://www.esa.int/Applications/Satellite_navigation" text="ESA Satellite navigation" title="ESA Satellite navigation" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Navigation" type="rss" />
+      <outline htmlUrl="https://www.esa.int/Education" title="ESA Education" type="rss" xmlUrl="http://www.esa.int/rssfeed/Education" text="ESA Education" />
+      <outline text="ESA Observing the Earth" title="ESA Observing the Earth" type="rss" htmlUrl="https://www.esa.int/Applications/Observing_the_Earth" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Observing_the_Earth" />
+      <outline text="ESA Operations" htmlUrl="https://www.esa.int/Enabling_Support/Operations" title="ESA Operations" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Operations" type="rss" />
+      <outline type="rss" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_News" text="ESA Top News" htmlUrl="https://www.esa.int/" title="ESA Top News" />
+      <outline text="ESA Connectivity and Secure Communications" htmlUrl="https://www.esa.int/Applications/Connectivity_and_Secure_Communications" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Telecommunications_Integrated_Applications" type="rss" title="ESA Connectivity and Secure Communications" />
     </outline>
-    <outline title="CERN" text="CERN">
-      <outline xmlUrl="https://home.cern/api/news/feature/feed.rss" htmlUrl="https://home.cern/" type="rss" title="CERN: Feature" text="CERN: Feature" />
-      <outline title="CERN: News" type="rss" xmlUrl="https://home.cern/api/news/news/feed.rss" htmlUrl="https://home.cern/" text="CERN: News" />
-      <outline type="rss" text="CERN: Press release" title="CERN: Press release" xmlUrl="https://home.cern/api/news/press-release/feed.rss" htmlUrl="https://home.cern/" />
+    <outline text="CERN" title="CERN">
+      <outline title="CERN: Press release" htmlUrl="https://home.cern/" text="CERN: Press release" xmlUrl="https://home.cern/api/news/press-release/feed.rss" type="rss" />
+      <outline type="rss" text="CERN: News" htmlUrl="https://home.cern/" xmlUrl="https://home.cern/api/news/news/feed.rss" title="CERN: News" />
+      <outline text="CERN: Feature" type="rss" htmlUrl="https://home.cern/" title="CERN: Feature" xmlUrl="https://home.cern/api/news/feature/feed.rss" />
     </outline>
+    <outline text="Arts" title="Arts">
+      <outline htmlUrl="https://geometerscircle.com/" type="rss" xmlUrl="https://geometerscircle.com/feed/" text="Geometers Circle" title="Geometers Circle" />
+    </outline>
+  </body>
+</opml>e>
   </body>
 </opml>
